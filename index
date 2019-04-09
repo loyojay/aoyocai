@@ -7,7 +7,7 @@
     <body>
         <p align=center>
           <font size="10">
-            <a style="color:#69DEDA" href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/loyojay/tt/master/install.plist">点击安装</a>
+            <a style="color:#69DEDA" href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/loyojay/aoyocai/master/install.plist?token=AsyGiUDwzfFLB6Ok-XQqJBSWLnPtPNH5ks5crG20wA%3D%3D">点击安装</a>
           </font>
         </p>
     </body>
